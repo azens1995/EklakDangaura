@@ -1,4 +1,3 @@
-# Eklak Dangaura
 This is the short intro of me.
 
 Hello dear! 
@@ -10,4 +9,4 @@ If you're here, then welcome.
 
 This is just the test page that I have created to see the demo.
 
-Thank you. (Smile)
+#Thank you. (Smile)
