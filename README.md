@@ -10,4 +10,4 @@ If you're here, then welcome.
 This is just the test page that I have created to see the demo.
 
 #Thank you. (Smile)
-<a href="privacy_policy.html" title="Privacy Policy for Tiger Trap">About Me</a>
+<a href="privacy_policy.html" title="Privacy Policy for Tiger Trap">Tiger Trap Privacy Policy</a>
